@@ -1,0 +1,25 @@
+{
+    "name": "Unity.Mono",
+    "rootNamespace": "ET",
+    "references": [
+        "Unity.ThirdParty",
+        "Unity.Core",
+        "YooAsset",
+        "FairyGUI.Runtime",
+        "Unity.TextMeshPro",
+        "UniTask",
+        "UniTask.YooAsset",
+        "HybridCLR.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

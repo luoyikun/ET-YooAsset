@@ -1,0 +1,28 @@
+{
+    "name": "Unity.Hotfix",
+    "rootNamespace": "ET",
+    "references": [
+        "Unity.Model",
+        "Unity.ThirdParty",
+        "Unity.Mono",
+        "Unity.Core",
+        "UniTask",
+        "YooAsset",
+        "AstarPathfindingProject"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Sirenix.OdinInspector.Attributes.dll",
+        "Sirenix.Serialization.dll",
+        "Sirenix.Serialization.Config.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

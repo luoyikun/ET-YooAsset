@@ -1,0 +1,29 @@
+{
+  "id": 10008,
+  "name": "中秋节鞋子",
+  "desc": "中秋节鞋子",
+  "price": 300,
+  "upgrade_to_item_id": 10009,
+  "expire_time": "2021-10-11 23:59:59",
+  "batch_useable": false,
+  "quality": "PURPLE",
+  "exchange_stream": {
+    "id": 10009,
+    "num": 6
+  },
+  "exchange_list": [
+    {
+      "id": 10001,
+      "num": 2
+    },
+    {
+      "id": 10002,
+      "num": 11
+    }
+  ],
+  "exchange_column": {
+    "id": 10001,
+    "num": 10
+  },
+  "UnitType": 2
+}

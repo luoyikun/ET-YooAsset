@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root Version="1.0">
+  <Common AutoAddressable="True" AutoCollectShader="True" ShaderBundleName="myshaders" />
+  <Group GroupName="Code" GroupDesc="代码热更新dll" AssetTags="">
+    <Collector CollectPath="Assets/Res/Code" CollectType="MainAssetCollector" AddressRule="AddressByGroupAndFileName" PackRule="PackRawFile" FilterRule="CollectAll" AssetTags="" />
+  </Group>
+  <Group GroupName="Config" GroupDesc="配置表" AssetTags="">
+    <Collector CollectPath="Assets/Res/Config" CollectType="MainAssetCollector" AddressRule="AddressByGroupAndFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="ConfigList" />
+  </Group>
+  <Group GroupName="UI" GroupDesc="UI相关" AssetTags="">
+    <Collector CollectPath="Assets/Res/UI" CollectType="MainAssetCollector" AddressRule="AddressByGroupAndFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+  </Group>
+  <Group GroupName="Unit" GroupDesc="Unit" AssetTags="">
+    <Collector CollectPath="Assets/Res/Unit" CollectType="MainAssetCollector" AddressRule="AddressByGroupAndFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+  </Group>
+  <Group GroupName="Scene" GroupDesc="场景" AssetTags="">
+    <Collector CollectPath="Assets/Res/Scene" CollectType="MainAssetCollector" AddressRule="AddressByGroupAndFileName" PackRule="PackDirectory" FilterRule="CollectScene" AssetTags="" />
+  </Group>
+  <Group GroupName="LightingMap" GroupDesc="光照数据" AssetTags="">
+    <Collector CollectPath="Assets/Res/Scene/Map1" CollectType="MainAssetCollector" AddressRule="AddressByCollectorAndFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+    <Collector CollectPath="Assets/Res/Scene/Map2" CollectType="MainAssetCollector" AddressRule="AddressByCollectorAndFileName" PackRule="PackDirectory" FilterRule="CollectAll" AssetTags="" />
+  </Group>
+</root>

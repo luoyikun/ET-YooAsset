@@ -1,0 +1,28 @@
+{
+  "id": 10006,
+  "name": "发饰",
+  "desc": "初始发饰",
+  "price": 100,
+  "upgrade_to_item_id": 10007,
+  "batch_useable": false,
+  "quality": "PURPLE",
+  "exchange_stream": {
+    "id": 10007,
+    "num": 5
+  },
+  "exchange_list": [
+    {
+      "id": 10001,
+      "num": 2
+    },
+    {
+      "id": 10002,
+      "num": 9
+    }
+  ],
+  "exchange_column": {
+    "id": 10001,
+    "num": 8
+  },
+  "UnitType": 2
+}

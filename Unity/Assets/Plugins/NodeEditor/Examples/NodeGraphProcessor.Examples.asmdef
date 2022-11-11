@@ -1,0 +1,24 @@
+{
+    "name": "NodeGraphProcessor.Examples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ca937d03ee5dd4d699091438dc0f3ae6",
+        "GUID:a432eb0a70c5c4a37ab50d59671586f8",
+        "GUID:6e17cd4649ea94c0cb18f30a60b9b4b4",
+        "GUID:12611d5382af79a49b0717b6a7614260",
+        "GUID:9ef2053bcf13a254ab3940a767f7b1a5",
+        "GUID:44bc39e1a2ff0934daea2c90e9dc7f80",
+        "GUID:1aa3e8589868c80499255710874679c0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

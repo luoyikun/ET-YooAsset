@@ -1,0 +1,10 @@
+{
+  "Id": 10001,
+  "Name": "Darius",
+  "SkillList": [
+    10001,
+    10002,
+    10005
+  ],
+  "AttributeConfigId": 10001
+}

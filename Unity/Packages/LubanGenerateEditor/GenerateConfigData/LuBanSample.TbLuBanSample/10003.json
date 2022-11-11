@@ -1,0 +1,28 @@
+{
+  "id": 10003,
+  "name": "裙子",
+  "desc": "初始下装",
+  "price": 100,
+  "upgrade_to_item_id": 10004,
+  "batch_useable": false,
+  "quality": "BLUE",
+  "exchange_stream": {
+    "id": 10004,
+    "num": 3
+  },
+  "exchange_list": [
+    {
+      "id": 10001,
+      "num": 2
+    },
+    {
+      "id": 10002,
+      "num": 6
+    }
+  ],
+  "exchange_column": {
+    "id": 10001,
+    "num": 5
+  },
+  "UnitType": 2
+}

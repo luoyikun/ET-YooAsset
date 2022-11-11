@@ -1,0 +1,31 @@
+{
+    "name": "Unity.HotfixView",
+    "rootNamespace": "ET",
+    "references": [
+        "Unity.Mono",
+        "Unity.ThirdParty",
+        "Unity.Model",
+        "Unity.Hotfix",
+        "Unity.ModelView",
+        "YooAsset",
+        "Unity.Core",
+        "Animancer",
+        "StatusIndiactors",
+        "UniTask",
+        "FairyGUI.Runtime",
+        "AstarPathfindingProject"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Sirenix.OdinInspector.Attributes.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

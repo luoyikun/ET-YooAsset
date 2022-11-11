@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="enltropw">
+  <resources>
+    <component id="pxxk0" name="Loading.xml" path="/" exported="true"/>
+    <image id="pxxk1" name="UIMajorCity_48.PNG" path="/"/>
+    <image id="rfuv4" name="LobbyBck.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

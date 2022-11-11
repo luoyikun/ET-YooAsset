@@ -1,0 +1,8 @@
+{
+  "Id": 10001,
+  "HP": 1200,
+  "MP": 300,
+  "Attack": 80,
+  "MoveSpeed": 500,
+  "AttackSpeed": 1
+}

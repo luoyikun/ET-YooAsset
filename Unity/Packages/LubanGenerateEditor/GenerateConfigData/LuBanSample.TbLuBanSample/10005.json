@@ -1,0 +1,28 @@
+{
+  "id": 10005,
+  "name": "鞋子",
+  "desc": "初始鞋子",
+  "price": 100,
+  "upgrade_to_item_id": 10006,
+  "batch_useable": false,
+  "quality": "PURPLE",
+  "exchange_stream": {
+    "id": 10006,
+    "num": 4
+  },
+  "exchange_list": [
+    {
+      "id": 10001,
+      "num": 2
+    },
+    {
+      "id": 10002,
+      "num": 8
+    }
+  ],
+  "exchange_column": {
+    "id": 10001,
+    "num": 7
+  },
+  "UnitType": 2
+}

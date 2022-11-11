@@ -1,0 +1,28 @@
+{
+  "id": 10009,
+  "name": "礼包",
+  "desc": "中秋节礼包",
+  "price": 100,
+  "upgrade_to_item_id": 10002,
+  "batch_useable": true,
+  "quality": "RED",
+  "exchange_stream": {
+    "id": 10000,
+    "num": 6
+  },
+  "exchange_list": [
+    {
+      "id": 10001,
+      "num": 2
+    },
+    {
+      "id": 10002,
+      "num": 12
+    }
+  ],
+  "exchange_column": {
+    "id": 10001,
+    "num": 11
+  },
+  "UnitType": 2
+}

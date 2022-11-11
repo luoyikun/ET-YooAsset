@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <image id="n0_pdjl" name="n0" src="pdjl4" fileName="Login.png" xy="0,0" size="1920,1080">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n12_8ibs" name="Btn_Login" src="pdjlb" fileName="Btn_StartGame.xml" xy="1429,420" size="274,64" group="n16_8ibs">
+      <Button titleColor="#ffffff" titleFontSize="40"/>
+    </component>
+    <component id="n22_brol" name="n22" src="brolsg" fileName="Btn_ContinueGame.xml" xy="1430,541" size="274,64" group="n16_8ibs">
+      <Button titleFontSize="30"/>
+    </component>
+    <group id="n16_8ibs" name="Gro_LoginInfo" xy="1429,420" size="275,185" advanced="true">
+      <relation target="" sidePair="right-right,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="Tween_LoginPanelFlyIn" autoPlay="true">
+    <item time="0" type="XY" target="n16_8ibs" tween="true" startValue="2112,401" endValue="1411,394" duration="24" ease="Back.Out"/>
+  </transition>
+</component>

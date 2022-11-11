@@ -1,0 +1,20 @@
+{
+    "name": "EntitiesOverView.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:12611d5382af79a49b0717b6a7614260",
+        "GUID:9ef2053bcf13a254ab3940a767f7b1a5",
+        "GUID:66bff79be75c480ea2f2ec56f549f870"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

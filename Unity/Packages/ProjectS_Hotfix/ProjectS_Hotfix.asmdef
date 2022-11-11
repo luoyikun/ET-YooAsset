@@ -1,0 +1,34 @@
+{
+    "name": "ProjectS_Hotfix",
+    "rootNamespace": "ET",
+    "references": [
+        "GUID:6e17cd4649ea94c0cb18f30a60b9b4b4",
+        "GUID:1aa3e8589868c80499255710874679c0",
+        "GUID:e34a5702dd353724aa315fb8011f08c3",
+        "GUID:c95cdb94fe45ef246b08d71c6b096504",
+        "GUID:9ef2053bcf13a254ab3940a767f7b1a5",
+        "GUID:4c25c05f410a3a447a75c3b0909152ef",
+        "GUID:76b57511f4debaa41a76cc7b4aa6981e",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:efa45043feb7e4147a305b73b5cea642",
+        "GUID:66bff79be75c480ea2f2ec56f549f870"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Sirenix.OdinInspector.Attributes.dll",
+        "Sirenix.OdinInspector.Editor.dll",
+        "Sirenix.Serialization.dll",
+        "Sirenix.Serialization.Config.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "NKGEditorOnly"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

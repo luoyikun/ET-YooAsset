@@ -1,0 +1,30 @@
+{
+    "name": "Unity.ModelView",
+    "rootNamespace": "ET",
+    "references": [
+        "Unity.Model",
+        "Unity.Mono",
+        "Unity.ThirdParty",
+        "YooAsset",
+        "FairyGUI.Runtime",
+        "Animancer",
+        "Unity.Core",
+        "UniTask",
+        "StatusIndiactors",
+        "AstarPathfindingProject"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Sirenix.Serialization.dll",
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

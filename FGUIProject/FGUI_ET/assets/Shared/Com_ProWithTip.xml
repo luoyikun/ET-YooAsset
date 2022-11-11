@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="955,95">
+  <displayList>
+    <component id="n3_8nuw" name="Pro_Load" src="8nuw2" fileName="CheckForResUpdateBar.xml" xy="0,36" size="955,27">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <text id="n4_8nuw" name="Txt_LoadInfo" xy="24,66" size="903,29" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" strokeSize="0.2" text="加载信息"/>
+    <text id="n5_8nuw" name="Txt_LoadTip" xy="24,0" size="903,29" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" strokeSize="0.2" text="加载Tip"/>
+  </displayList>
+</component>

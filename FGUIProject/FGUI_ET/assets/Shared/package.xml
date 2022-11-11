@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="btak13q2">
+  <resources>
+    <font id="brolh" name="SourceHanSansCN-Regular.otf" path="/" renderMode="sdfaa" samplePointSize="40" atlasPadding="5"/>
+    <component id="8nuw2" name="Pro_Common.xml" path="/" exported="true"/>
+    <image id="8nuw3" name="BarBackGround.PNG" path="/Res/" scale="9grid" scale9grid="40,10,50,20"/>
+    <image id="8nuw4" name="Bar.PNG" path="/Res/"/>
+    <component id="8nuw5" name="Com_ProWithTip.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,28 @@
+{
+  "id": 10001,
+  "name": "外套",
+  "desc": "初始外套",
+  "price": 100,
+  "upgrade_to_item_id": 10002,
+  "batch_useable": false,
+  "quality": "WHITE",
+  "exchange_stream": {
+    "id": 10002,
+    "num": 2
+  },
+  "exchange_list": [
+    {
+      "id": 10001,
+      "num": 2
+    },
+    {
+      "id": 10002,
+      "num": 4
+    }
+  ],
+  "exchange_column": {
+    "id": 10001,
+    "num": 3
+  },
+  "UnitType": 1
+}

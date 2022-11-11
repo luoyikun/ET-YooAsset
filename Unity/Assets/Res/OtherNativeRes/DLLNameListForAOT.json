@@ -1,0 +1,32 @@
+{
+    "$id": 0,
+    "$type": "0|ET.DLLNameListForAOT, Unity.Mono",
+    "DLLNameList_Raw": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+        "$rlength": 7,
+        "$rcontent": [
+            "System.dll",
+            "Unity.Core.dll",
+            "Unity.ThirdParty.dll",
+            "mscorlib.dll",
+            "System.Core.dll",
+            "Sirenix.Serialization.dll",
+            "UniTask.dll"
+        ]
+    },
+    "DLLNameList_ForABLoad": {
+        "$id": 2,
+        "$type": 1,
+        "$rlength": 7,
+        "$rcontent": [
+            "Code_System.dll",
+            "Code_Unity.Core.dll",
+            "Code_Unity.ThirdParty.dll",
+            "Code_mscorlib.dll",
+            "Code_System.Core.dll",
+            "Code_Sirenix.Serialization.dll",
+            "Code_UniTask.dll"
+        ]
+    }
+}
